@@ -45,7 +45,7 @@ git push origin master
 
 方法三：
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/ObjTube/front-end-roadmap)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/liuchaowen/front-end-roadmap)
 
 
 欢迎大家贡献学习资源 :heart:

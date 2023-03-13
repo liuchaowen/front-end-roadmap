@@ -3,12 +3,9 @@
     Arial, sans-serif;
   position: relative;
   background-color: #2d4059;
-  padding-top: 60px;
 }
 .desc-container {
-  margin: 0 10% 0;
   display: flex;
-  padding-top: 20px;
   position: relative;
   bottom: -20px;
 }

@@ -4,13 +4,11 @@ import { HashRouter as Router, Route } from "react-router-dom";
 import './App.css';
 import Index from './page/index';
 import Guide from './page/guide';
-import Header from './components/header'
 
 import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(
   <>
-    <Header />
     <Router basename="/front-end-roadmap">
       <Route exact path="/" component={Index} />
       <Route path="/guide/:query" component={Guide} />
