@@ -166,10 +166,10 @@ export const all = [
           c("gulp", 800, 100, { bgColor: "#CCCCCC" }),
         ]),
         c("模块化打包", { x: 600, y: 1360 }, 100, {}, [
+          c("Vite", 800, 100, { tag: TAG.recommand }),
           c("Webpack", 800, 100, { tag: TAG.recommand }),
           c("Rollup", 800, 100, { tag: TAG.optional }),
           c("Parcel", 800, 100, { tag: TAG.optional }),
-          c("Snowpack", 800, 100, { tag: TAG.optional }),
         ]),
       ],
     ],

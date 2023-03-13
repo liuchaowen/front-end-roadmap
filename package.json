@@ -2,7 +2,7 @@
   "name": "front-end-roadmap",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://objtube.github.io/front-end-roadmap",
+  "homepage": "https://road.map.xlap.top/front-end-roadmap",
   "dependencies": {
     "axios": "^0.19.2",
     "customize-cra": "^1.0.0",
